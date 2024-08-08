@@ -1,4 +1,4 @@
-# Cobus Uys - Curriculum Vitae
+# Cobus Uys
 **Email:** jluysvi@gmail.com  
 **Phone:** (071) 603-2866  
 **Location:** Bloemfontein, South Africa
@@ -13,10 +13,9 @@
 
 ## Work Experience
 
-### **Power Super Capacitor**  
-**Automation Technician**  
-*Bloemfontein, South Africa*  
-**November 2022 – Present**  
+### Power Super Capacitor
+**Automation Technician** - *Bloemfontein, South Africa*  
+November 2022 – Present 
 - Designed and implemented **advanced mechanical and control systems** for new production line machinery, increasing factory efficiency by a large margin, primarily by automating tasks usually done by hand.
 - Applied expertise in **embedded C++** to create **exceptionally reliable** and **bug free** control progams for industrial machinery.
 - Used **HMI design** skills to create interfaces for factory machines.
@@ -26,33 +25,29 @@
 - Reused **Delta PLC's** from older machines for new automation tasks.
 
 ### Jim Fouche Hostel  
-**Hostel Supervisor (Part-Time)**  
-*Bloemfontein, South Africa*  
-**June 2022 – October 2023**  
+**Hostel Supervisor (Part-Time)** - *Bloemfontein, South Africa*  
+June 2022 – October 2023 
 - Guided learners in their studies, enforced discipline, **and managed administrative tasks**, fostering a positive learning environment.
 - Created an **automated system** for tracking disciplinary records and learner data, using **Google Forms and Python** which reduced physical paper usage.
 - Developed strong **interpersonal and leadership skills** through daily interactions with learners and staff.
 
 ### Delta Solar
-**Temporary Worker**
-*Middelburg & Bloemfontein, South Africa*
-**January 2022 - May 2022**
+**Temporary Worker** - *Middelburg & Bloemfontein, South Africa*
+January 2022 - May 2022
 - Designed and installed and programmed **HMI's(Nextion)** for many application including a pyrolysis plant and fume hood controllers used at **Sol Plaatjie University**.
 - Learned many useful skills like **welding, grinding and control board wiring**.
 
 ### Leeuwenkuil Family Vineyards  
-**Harvest Helper**  
-*Stellenbosch, South Africa*  
-**January 2022 – March 2022**  
+**Harvest Helper** - *Stellenbosch, South Africa*  
+January 2022 – March 2022
 - Assisted in processing grape harvests for wine production, ensuring **timely and efficient processing** during peak season.
 - Managed various responsibilities, including **operating machinery** and **supervising temporary workers**, contributing to the **smooth operation of the vineyard**.
 
 ## Education
 
-### **University of South Africa (UNISA)**  
+### University of South Africa (UNISA)
 **BSc in Computer Science**  
-*Bloemfontein, South Africa*  
-**First Year - Expected Graduation: 2026**  
+First Year - Expected Graduation: 2026  
 - **Relevant Coursework:** Programming, Linear Algebra, Calculus, Computer Architecture
 - **Achievements:** Consistently high marks, aligning academic knowledge with professional experience.
 
