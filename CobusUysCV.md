@@ -12,7 +12,7 @@
 *Bloemfontein, South Africa*  
 **November 2022 – Present**  
 
-- **Designed and implemented** advanced mechanical and control systems for new production line machinery, increasing factory efficiency by 50%.
+- **Designed and implemented** advanced mechanical and control systems for new production line machinery, increasing factory efficiency by 50% by automating tasks usually done by hand.
 - **Developed** a controller for automatic cell discharging with cell-level control and energy reclamation, significantly reducing energy waste.
 - **Led** the design and programming of nearly all factory production line machines, ensuring exceptional reliability and less than 1% downtime.
 - **Applied** expertise in Embedded C++ programming, CAD design (Fusion 360), and PCB design (Altium Designer) to enhance production processes.
@@ -24,7 +24,7 @@
 **May 2022 – October 2023**  
 
 - **Guided** learners in their studies, enforced discipline, and managed administrative tasks, fostering a positive learning environment.
-- **Engineered** an automated system for tracking disciplinary records and learner data, using Google Forms and Python which reduced physical paper usage by 80&.
+- **Engineered** an automated system for tracking disciplinary records and learner data, using Google Forms and Python which reduced physical paper usage by 80%.
 - **Developed** strong interpersonal and leadership skills through daily interactions with learners and staff.
 
 ### **Leeuwenkuil Family Vineyards**  
